@@ -1,1 +1,1 @@
-exports._ = function(n) { console.log('mod-a v1', n); return n; }
+exports._ = function(n) { console.log('mod-a v2', n); return n; }
